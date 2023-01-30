@@ -1,7 +1,4 @@
-# LGMVIP-Web_Task01
-
-### Task 1 - To Do List Website
-### Create a To Do List Website using HTML, CSS, Javascript.
+# To Do List Website
 
 ## Screenshort
 
